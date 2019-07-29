@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/DatabaseManager.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/SMSSender.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/nbproject/ant-deploy.xml</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/conf/MANIFEST.MF</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/RecordRackDatabase.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/nbproject/project.properties</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/servlets/BaseServlet.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/nbproject/build-impl.xml</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/build.xml</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/servlets/EmailVerificationServlet.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/DatabaseCreation.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/EmailVerificationLogic.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/servlets/StoreRegistrationServlet.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/web/META-INF/context.xml</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/EmailSender.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/servlets/SynchronizeWithClient.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/nbproject/genfiles.properties</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/web/index.html</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/logic/RecordRackBusinesses.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/servlets/DownloadToClient.java</file>
+            <file>file:/Users/anthony1/NetBeansProjects/RecordRackWeb/src/java/com/geckosolutions/recordrack/servlets/DataSubmissionServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
